@@ -20,3 +20,5 @@ A Retrieval-Augmented Generation (RAG) application that lets users upload any PD
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your Groq API key to `.env`: `GROQ_API_KEY=your_key`
 4. Run: `streamlit run app.py`
+
+🔗 Live Demo: https://rag-pdf-chatbot-inbvlhwfpd6ply6pe7f469.streamlit.app
